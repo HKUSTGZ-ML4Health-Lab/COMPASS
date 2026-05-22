@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Text as a Compass: Semantic-Navigated 3D Bone Collapse Prediction via Orthogonal Micro-Volume Primitives"
+message: "If you use this code, please cite the associated MICCAI paper."
+type: software
+authors:
+  - family-names: Zeng
+    given-names: Qingyuan
+  - family-names: Guan
+    given-names: Zixin
+  - family-names: Chen
+    given-names: Yusen
+  - family-names: Wu
+    given-names: Zifeng
+  - family-names: Li
+    given-names: Hao
+  - family-names: Ma
+    given-names: Qian
+  - family-names: Lu
+    given-names: Zixiao
+  - family-names: He
+    given-names: Wei
+  - family-names: Chen
+    given-names: Leilei
+  - family-names: Zhou
+    given-names: Wu
+  - family-names: Chen
+    given-names: Jintai
+conference: "MICCAI"
+date-released: 2026-05-22

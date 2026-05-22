@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+numpy
+pandas
+scikit-learn
+scikit-image
+scipy
+pillow
+tqdm
+wandb
+opencv-python
+matplotlib
+SimpleITK

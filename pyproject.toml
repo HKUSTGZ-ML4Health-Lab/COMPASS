@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "compass-onfh"
+version = "0.1.0"
+description = "COMPASS: text-guided orthogonal micro-volume primitives for ONFH collapse prediction."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "torch",
+  "torchvision",
+  "transformers",
+  "numpy",
+  "pandas",
+  "scikit-learn",
+  "scikit-image",
+  "scipy",
+  "pillow",
+  "tqdm",
+  "wandb",
+  "opencv-python",
+  "matplotlib",
+  "SimpleITK",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
